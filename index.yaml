@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  mls-system-task-invoker-bundle:
+  - apiVersion: 0.1.0
+    created: "2019-09-09T09:16:34.5886165+01:00"
+    description: Runtime bundle to deploy a process for invoking a remote task
+    digest: c291f9581fbb5d1bec680a5a85d2aabd18e2c680c510fd92f6fe085dc5681ea2
+    icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
+    name: mls-system-task-invoker-bundle
+    urls:
+    - https://grahameweir.github.io/mls-system-task-process-bundle/mls-system-task-invoker-bundle-0.1.0.tgz
+    version: 0.1.0
+generated: "2019-09-09T09:16:34.5846312+01:00"
