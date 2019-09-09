@@ -45,7 +45,7 @@ image:
   pullPolicy: IfNotPresent
   registry: ""
 service:
-  name: MlsSystemTaskConnectorApplication
+  name: mlssystemtaskconnectorapplication
   type: ClusterIP
   externalPort: 80
   internalPort: 8080
