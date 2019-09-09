@@ -102,7 +102,7 @@ ingress:
   ## Set to true to enable ingress record generation
   enabled: false
 
-  path: /mls
+  path: /rb-my-app
 
   ## Set this to override global.gateway.host name
   hostName: 
