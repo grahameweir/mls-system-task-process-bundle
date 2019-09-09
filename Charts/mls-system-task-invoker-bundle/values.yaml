@@ -7,9 +7,9 @@ global:
     host:
       value: ""
     username:
-      value: admin
+      value: guest
     password:
-      value: admin
+      value: guest
   keycloak:
     url: ""
     name: keycloak
