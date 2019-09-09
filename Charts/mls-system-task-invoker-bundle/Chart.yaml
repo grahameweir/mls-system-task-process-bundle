@@ -1,5 +1,0 @@
-apiVersion: 0.1.0
-description: Runtime bundle to deploy a process for invoking a remote task
-icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
-name: mls-system-task-invoker-bundle
-version: 0.1.0
