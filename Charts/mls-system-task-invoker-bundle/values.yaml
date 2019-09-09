@@ -5,11 +5,11 @@ replicaCount: 1
 global:
   rabbitmq:
     host:
-      value: ""
+      value: "http://localhost:15672"
     username:
-      value: guest
+      value: admin
     password:
-      value: guest
+      value: admin
   keycloak:
     url: ""
     name: keycloak
