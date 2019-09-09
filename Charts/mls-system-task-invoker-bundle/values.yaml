@@ -5,8 +5,7 @@ replicaCount: 1
 global:
   rabbitmq:
     host:
-      value: "http://localhost"
-      port: 15672
+      value: ""
     username:
       value: admin
     password:
