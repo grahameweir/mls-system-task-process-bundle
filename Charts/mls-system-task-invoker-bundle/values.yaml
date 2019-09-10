@@ -41,7 +41,7 @@ javaOpts:
 #registryPullSecrets: private-registry-secret
 image:
   repository: mls-system-task-invoker
-  tag: 0.1.0
+  tag: 0.1.1
   pullPolicy: IfNotPresent
   registry: ""
 service:
