@@ -1,0 +1,5 @@
+apiVersion: 0.1.0
+description: Helm Chart to deploy BPMN process runtime bundle
+icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
+name: mlsbpmnruntimebundle
+version: 0.1.0
