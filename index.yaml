@@ -1,33 +1,23 @@
 apiVersion: v1
 entries:
-  mls-system-task-invoker-bundle:
+  mls-system-task-connector-bundle:
   - apiVersion: v1
-    created: "2019-09-30T14:36:13.6101433+01:00"
+    created: "2019-10-01T17:13:35.1625574+01:00"
     description: Helm chart to deploy the MLS System Task Connector
-    digest: 9be4022d79ca9c2477ddf765700998e9f79142d1aeeb70359895ae4ee8efa7d3
+    digest: 5a333cfdb9778d2b5005a0da9cc20447c702751733db2a7c1f43daa5dd44b85a
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
-    name: mls-system-task-invoker-bundle
+    name: mls-system-task-connector-bundle
     urls:
-    - https://grahameweir.github.io/mls-system-task-process-bundle/mls-system-task-invoker-bundle-0.1.0.tgz
-    version: 0.1.0
-  mls-system-task-process-bundle:
-  - apiVersion: 0.1.0
-    created: "2019-09-30T14:36:13.614147+01:00"
-    description: Runtime bundle to deploy a process for invoking a remote task
-    digest: a4d9ae28323ecd8045bd253b74de7a64ffbe731bbd5e1a4fa1ddd8c562728c06
-    icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
-    name: mls-system-task-process-bundle
-    urls:
-    - https://grahameweir.github.io/mls-system-task-process-bundle/mls-system-task-process-bundle-0.1.0.tgz
-    version: 0.1.0
+    - https://grahameweir.github.io/mls-system-task-process-bundle/mls-system-task-connector-bundle-0.1.1.tgz
+    version: 0.1.1
   mlsbpmnruntimebundle:
   - apiVersion: 0.1.0
-    created: "2019-09-30T14:36:13.6181376+01:00"
+    created: "2019-10-01T17:13:35.1655408+01:00"
     description: Helm Chart to deploy BPMN process runtime bundle
-    digest: edff011de1567649caf893cbbbd7cb9ed30c070766d686856f3bd0ac544b6533
+    digest: 258185ee8bdcbcb24aee73e22c8fa31442d4d0f6877aa78fc9b0c1ff2423689f
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: mlsbpmnruntimebundle
     urls:
     - https://grahameweir.github.io/mls-system-task-process-bundle/mlsbpmnruntimebundle-0.1.0.tgz
     version: 0.1.0
-generated: "2019-09-30T14:36:13.6066097+01:00"
+generated: "2019-10-01T17:13:35.1605397+01:00"
